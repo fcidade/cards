@@ -1,0 +1,24 @@
+TODO MUNDO JOGA E TODO MUHNDO VORA
+
+- [x] Criar sala
+- [x] Conectar jogador
+- [] Desconectar jogador
+- [] Reconectar jogador
+- [] Iniciar partida
+- [] Iniciar jogo com carta preta aleatória
+- [] Dar 5 cartas brancas aleatórias para cada jogador
+- [] Permitir jogador escolher uma carta
+- [] Mostrar cartas de cabeca pra baixo
+- [] No final do round, virar todas as cartas
+- [] Permitir votacao
+- [] Pontuar o melhor jogador
+- [] Reiniciar partida
+
+--- Pro futuro
+
+- [] Configurar número de rounds
+- []
+
+---
+
+Links uteis: https://github.com/pentalpha/Cards-Against-Humanity-BR
